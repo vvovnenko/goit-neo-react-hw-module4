@@ -1,0 +1,11 @@
+.imageCard {
+	height: 200px;
+	width: 300px;
+	object-fit: cover;
+	object-position: center;
+}
+
+.imageCardDescription {
+	margin: 0;
+	padding: 10px;
+}
